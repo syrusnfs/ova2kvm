@@ -23,9 +23,9 @@ sudo apt install qemu-utils python3
 
 ## How to Use
 
-1. Clone this repository or download the script.
+1. Clone repo and mount folder:
 ```bash
-git clone https://github.com/syrusnfs/ova2kvm.git
+git clone https://github.com/syrusnfs/ova2kvm.git && cd ova2kvm
 ```
 
 2. Run the tool:
