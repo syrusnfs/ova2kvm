@@ -1,4 +1,4 @@
-#OVA2KVM
+# OVA2KVM
 
 Simple Python tool to convert virtual machines from `.ova` format (VMware/VirtualBox) to `.qcow2` format (KVM/QEMU). Supports single or batch conversion.
 
