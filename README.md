@@ -24,18 +24,14 @@ sudo apt install qemu-utils python3
 ## How to Use
 
 1. Clone this repository or download the script.
-2. Grant execution permission to the script:
-   ```bash
-   chmod +x ova2kvm.py
-   ```
-3. Run the tool:
-   ```bash
-   ./ova2kvm.py
-   ```
-   or
-   ```bash
-   python3 ova2kvm.py
-   ```
+```bash
+git clone https://github.com/syrusnfs/ova2kvm.git
+```
+
+2. Run the tool:
+```bash
+python3 ova2kvm.py
+```
 
 ## Menu
 
@@ -46,4 +42,4 @@ Upon starting, you will see the following options:
 0. **Exit:** Exit the tool.
 
 ## Author
-**Syrus**.
+Syrus
